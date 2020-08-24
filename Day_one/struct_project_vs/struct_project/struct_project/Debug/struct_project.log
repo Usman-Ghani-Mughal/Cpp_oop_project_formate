@@ -1,0 +1,4 @@
+﻿  Person_implementaion.cpp
+s:\study\programs\oop_tut_class\struct_project_vs\struct_project\struct_project\person_implementaion.cpp(51): warning C4101: 'e': unreferenced local variable
+s:\study\programs\oop_tut_class\struct_project_vs\struct_project\struct_project\person_implementaion.cpp(71): warning C4101: 'e': unreferenced local variable
+  struct_project.vcxproj -> S:\study\programs\OOP_tut_class\struct_project_vs\struct_project\Debug\struct_project.exe
